@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-docz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "docz": "^1.1.0",
+    "docz-theme-default": "^1.1.0",
+    "gatsby": "^2.4.2",
+    "gatsby-theme-docz": "^1.1.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "styled-components": "^4.2.0"
+  }
+}
